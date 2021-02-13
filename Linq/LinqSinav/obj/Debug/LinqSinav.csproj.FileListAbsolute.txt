@@ -1,0 +1,5 @@
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSinav\obj\Debug\LinqSinav.csprojAssemblyReference.cache
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSinav\obj\Debug\LinqSinav.Form1.resources
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSinav\obj\Debug\LinqSinav.Properties.Resources.resources
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSinav\obj\Debug\LinqSinav.csproj.GenerateResource.cache
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSinav\obj\Debug\LinqSinav.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSınavvv\bin\Debug\LinqSınavvv.exe.config
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSınavvv\bin\Debug\LinqSınavvv.exe
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSınavvv\bin\Debug\LinqSınavvv.pdb
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSınavvv\obj\Debug\LinqSınavvv.Form1.resources
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSınavvv\obj\Debug\LinqSınavvv.Properties.Resources.resources
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSınavvv\obj\Debug\LinqSınavvv.csproj.GenerateResource.cache
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSınavvv\obj\Debug\LinqSınavvv.csproj.CoreCompileInputs.cache
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSınavvv\obj\Debug\LinqSınavvv.exe
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSınavvv\obj\Debug\LinqSınavvv.pdb
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSınavvv\bin\Debug\EntityFramework.dll
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSınavvv\bin\Debug\EntityFramework.xml
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSınavvv\obj\Debug\LinqSınavvv.csprojAssemblyReference.cache
+C:\Users\Ebrus\source\repos\LinqSinav\LinqSınavvv\obj\Debug\LinqSınavvv.csproj.CopyComplete
